@@ -1,7 +1,7 @@
 # Bank-Management-System
 This program is written in C programming language .It is very basic management system for bank.
-In this project firstly, I was created a welcome screen than i was created  a login form.
-If you entered a correct password and username than you see  some cases.
+In this project firstly, I was created a welcome screen then i was created  a login form.
+If you entered a correct password and username then you see  some cases like.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FIRST CASE: ****account open****(In account open function you enter some personal detail like name, phone number,dob etc .)
 SECOND CASE: ****deposit****(In deposit function you enter how many amount you want to deposit?)
