@@ -8,3 +8,5 @@ SECOND CASE: ****deposit****(In deposit function you enter how many amount you w
 THIRD CASE: ****withdraw****(In withdraw function you enter the amount you want to withdraw)
 FOURTH CASE: ****transfer****(In transfer function you enter the amount you want to transfer)
 FIFTH CASE: ****detail of account****(In detail function you get your all bank detail)
+<hr>
+<h3>OUTPUT</h3>
