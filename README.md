@@ -12,9 +12,9 @@ FIFTH CASE: ****detail of account****(In detail function you get your all bank d
 </pre>
 <hr>
 <h3>OUTPUT</h3>
-
+<hr>
 ![Screenshot (224)](https://user-images.githubusercontent.com/92047366/172447945-0db22a29-62e0-40bf-b1a5-ad767a83ca18.png)
-
+<hr>
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/92047366/172447962-70817ab5-3ded-4a56-8b8a-c27a082a89bf.png)
 ![Screenshot (226)](https://user-images.githubusercontent.com/92047366/172447971-ef8cf0e5-798a-4d76-888f-8245d2db6e20.png)
