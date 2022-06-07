@@ -13,9 +13,12 @@ FIFTH CASE: ****detail of account****(In detail function you get your all bank d
 <hr>
 <h3>OUTPUT</h3>
 <p>Welcome Screen</p>
-![Screenshot (224)](https://user-images.githubusercontent.com/92047366/172447945-0db22a29-62e0-40bf-b1a5-ad767a83ca18.png)
+<img src="![Screenshot (224)](https://user-images.githubusercontent.com/92047366/172447945-0db22a29-62e0-40bf-b1a5-ad767a83ca18.png)">
 <br>
+<p>Loging form</p>
 ![Screenshot (225)](https://user-images.githubusercontent.com/92047366/172447962-70817ab5-3ded-4a56-8b8a-c27a082a89bf.png)
+<br>
+<p>Main Menu</p>
 ![Screenshot (226)](https://user-images.githubusercontent.com/92047366/172447971-ef8cf0e5-798a-4d76-888f-8245d2db6e20.png)
 ![Screenshot (227)](https://user-images.githubusercontent.com/92047366/172447980-e4c0508e-292c-420b-ab64-6d9ab52833e4.png)
 ![Screenshot (228)](https://user-images.githubusercontent.com/92047366/172447998-a9ecc044-5bc5-404a-8c57-b6b84fd45670.png)
